@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <main className="container mx-auto mt-60">
+      <main className="container mx-auto mt-40">
         <div className="text-center">
           <h1 className="text-4xl">prism</h1>
           <h1 className="mt-5 text-6xl">
