@@ -1,5 +1,7 @@
 import { Footer } from '../components/Footer.js'
 import { Header } from '../components/Header.js'
+import Link from 'next/link'
+
 import 'tailwindcss/tailwind.css'
 
 
@@ -22,6 +24,7 @@ export default function Home() {
           <h1 className="sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl xl:mt-20">お問い合わせ</h1>
           <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600">  クライアントの課題解決をサポートします。気軽なご相談からでも受け付けております。</p>  
           <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600">メールはこちらから：info@whispon.com</p>
+          <p className="hover:text-gray-300 sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600 underline"><Link href="/profile">プロフィールはこちらから</Link></p>
         </div>
       </main>
       <Footer />
