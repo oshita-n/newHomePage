@@ -9,9 +9,7 @@ export default function Home() {
       <Header />
 
       <main className={styles.main}>
-        <p className={styles.description}>
-            prism        
-        </p>
+        <h1>prism</h1>
 
         <h1 className={styles.title}>
           今まで見えなかったものを可視化し、
@@ -23,7 +21,7 @@ export default function Home() {
           <p>見せられて初めて、これが欲しかったと思う。そういう感動をprismは提供します。
           </p>
 
-          <p>お問い合わせ</p>
+          <h1>お問い合わせ</h1>
           <p>  クライアントの課題解決をサポートします。気軽なご相談からでも受け付けております。</p>  
           <p>メールはこちら：info@whispon.com</p>
 
