@@ -9,10 +9,8 @@ export  function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
+          prism 今まで見えなかったものを可視化し、価値を提供する
+
         </a>
       </footer>
   )
