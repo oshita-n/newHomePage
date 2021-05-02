@@ -13,10 +13,10 @@ export default function Home() {
           <h1　className="sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl xl:mt-28">プロフィール</h1>
           <div className="flex justify-center mt-5"><img class="xl:w-52" src="oshita.jpg" /></div>
           <h1 className="sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl mt-5">prism  大下 範晃</h1>
-          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600">1995年、北海道札幌市で生まれる。2018年に北海道情報大学を卒業。大学では情報数学、</p>
-          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600">自然言語処理を中心とした機械学習について学んだ。</p>
-          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600">卒業後はAIQ株式会社（機械学習エンジニア）、株式会社調和技研（機械学習エンジニア）、株式会社Aidemy（データサイエンティスト、コンテンツ編集員）で働いた後、フリーランスとして独立。</p>
-          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600">一般的なディープラーニング、文章を解析するための自然言語処理、組み合わせ最適化問題を解くための「メタヒューリスティクス」などを得意としている。
+          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600 m-5">1995年、北海道札幌市で生まれる。2018年に北海道情報大学を卒業。大学では情報数学、</p>
+          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600 m-5">自然言語処理を中心とした機械学習について学んだ。</p>
+          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600 m-5">卒業後はAIQ株式会社（機械学習エンジニア）、株式会社調和技研（機械学習エンジニア）、株式会社Aidemy（データサイエンティスト、コンテンツ編集員）で働いた後、フリーランスとして独立。</p>
+          <p className="sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600 m-5">一般的なディープラーニング、文章を解析するための自然言語処理、組み合わせ最適化問題を解くための「メタヒューリスティクス」などを得意としている。
           また、フリーランスであるが、チームワークを大事にしている。</p>
           <p className="hover:text-gray-300 sm:text-lg md:text-xl lg:text-2xl xl:text-3xl mt-5 text-gray-600 underline"><Link href="/">トップページへ戻る</Link></p>
         </div>
