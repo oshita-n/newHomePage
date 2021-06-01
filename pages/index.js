@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <main className="container mx-auto sm:mt-10 md:mt-20 lg:mt-10 xl:mt-10 ml-5 mr-5">
+      <main className="container mx-auto sm:mt-10 md:mt-20 lg:mt-10 xl:mt-10">
         <div>
           <h1 className="sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl">AiPrism</h1>
           <div className="grid justify-items-center relative">
