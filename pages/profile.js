@@ -10,7 +10,7 @@ export default function Home() {
       <Header />
       <main className="container mx-auto">
         <div>
-          <h1 className="md:text-2xl lg:text-3xl xl:text-4xl mt-10"><Link href="/">AiPrism</Link></h1>
+          <h1 className="md:text-2xl lg:text-3xl xl:text-4xl mt-10"><Link href="/">AiPrismTechnologies</Link></h1>
           <figure class="md:flex bg-gray-100 rounded-xl p-8 md:p-0">
               <img class=" w-32 h-32 rounded-full mx-auto" src="oshita.jpg" />
               <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
@@ -24,7 +24,7 @@ export default function Home() {
                     大下 範晃 NoriakiOshita
                   </div>
                   <div class="text-gray-500">
-                    AiPrism 代表
+                    AiPrismTechnologies 代表
                   </div>
                 </figcaption>
               </div>
